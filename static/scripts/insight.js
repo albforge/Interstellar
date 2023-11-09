@@ -262,7 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Now.GG",
-      link: "https://now.gg",
+      link: "https://nowgg--suthisasuwrrns2.repl.co/",
       image: "/images/icons/now-gg.png",
       categories: ['all', 'emu']
     },
