@@ -1,6 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
+      name: "TikMovies",
+      link: "https://www.tikmovies.com/",
+      image: "https://www.tikmovies.com/images/group_1/theme_2/logo-square.png",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
+    {
       name: "Amazon",
       link: "https://amazon.com/",
       image: "/images/icons/apps/amazon.png",
